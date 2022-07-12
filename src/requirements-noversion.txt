@@ -12,7 +12,6 @@ django-extensions
 django-filter
 djangorestframework
 djangorestframework-gis
-djangorestframework-jwt
 django-rest-swagger
 django-shotgun
 drf-extensions

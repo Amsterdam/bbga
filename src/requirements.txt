@@ -14,13 +14,12 @@ django-shotgun==0.2
 djangorestframework==3.11.2
 djangorestframework-csv==2.1.0
 djangorestframework-gis==0.14
-djangorestframework-jwt==1.11.0
 djangorestframework-xml==1.4.0
 drf-amsterdam==0.1.8
 drf-extensions==0.4.0
 drf-hal-json==0.9.1
 drf-nested-fields==0.9.4
-drf-yasg==1.15.0
+drf-yasg==1.20.0
 factory-boy==2.11.1
 fake-factory==9999.9.9
 Faker==1.0.1
@@ -45,7 +44,7 @@ pyslack-real==0.6.0
 python-dateutil==2.7.5
 pytz==2018.9
 PyYAML==5.4
-requests==2.21.0
+requests==2.28.1
 simplejson==3.16.0
 six==1.12.0
 sphinx-me==0.3
